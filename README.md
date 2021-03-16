@@ -52,8 +52,10 @@ If you find the paper useful in your research, please cite the paper:
   journal={IEEE Journal of Selected Topics in Signal Processing}, 
   title={RARE: Image Reconstruction using Deep Priors Learned without Ground Truth}, 
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},}
+  volume={14},
+  number={6},
+  pages={1088-1099},
+  publisher={IEEE}
+}
 
 ```
